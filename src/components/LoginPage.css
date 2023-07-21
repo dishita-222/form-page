@@ -1,0 +1,31 @@
+.login-form-container {
+    background-color: black;
+    color: gold;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .logo-container img {
+    max-width: 200px; 
+  }
+  .form-heading {
+    margin-bottom: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .form-btn {
+    background-color: gold;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
